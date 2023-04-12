@@ -1,4 +1,4 @@
-<img src="https://github.com/Guru-Collective/Whitepaper/raw/master/images/logo_text.png" width="480">
+<img src="https://raw.githubusercontent.com/Guru-Collective/.github/main/profile/site-thumbnail.jpg" width="800">
 
 # About Guru Collective
 
